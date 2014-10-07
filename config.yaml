@@ -1,0 +1,14 @@
+---
+Resources:
+  / : Resource::Root
+
+Visualization:
+  link :       Vis::Links
+  form :       Vis::Form
+  log :        Vis::Log
+  table :      Vis::Table
+
+TmpDir: ./web/static/tmp
+
+AdminUser: admin
+AdminPassword: 1234
